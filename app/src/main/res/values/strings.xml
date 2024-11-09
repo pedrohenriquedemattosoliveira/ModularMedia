@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo de Media</string>
+    <string name="nota_1">nota 1</string>
+    <string name="nota_3">nota 3</string>
+    <string name="nota_2">nota 2</string>
+    <string name="nota_4">nota 4</string>
+    <string name="numero_de_faltas">Numero de Faltas</string>
+    <string name="calcular">Calcular</string>
+    <string name="aluno_aprovado">aluno aprovado</string>
+</resources>
